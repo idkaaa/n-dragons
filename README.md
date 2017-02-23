@@ -1,4 +1,4 @@
-# n-dragons
+# [n-dragons wiki](https://github.com/idkaaa/n-dragons/wiki)
 ###Since the n-queens problem wasn't fun enough...
 
 ###In Shogi (a Japanese relative of Chess), the dragon king moves like a rook and king and a dragon horse moves like a bishop and king. We consider three questions for each of these Shogi pieces:
